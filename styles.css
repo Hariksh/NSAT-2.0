@@ -155,7 +155,7 @@ html {
     scroll-behavior: smooth;
 }
 iframe {
-    width: 100%;
+    width: 101%;
     height: 100vh;
     border: none;
 }
